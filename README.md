@@ -1,0 +1,2 @@
+# Enterprise-Level-Veterinary-System-Using-Multi-Tier-Architecture
+The Veterinary Clinic System is a scalable, web-based platform designed to streamline the operations of a Veterinary Clinic and Boarding facility that treats both domestic and exotic animals. The system uses web development technologies to leverage a multi-tier architecture to ensure modularization, maintainability, and efficient data management.
